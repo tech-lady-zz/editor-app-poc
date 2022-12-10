@@ -41,7 +41,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^13.0.0",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-loader": "^3.0.1",
     "lodash": "^4.17.11",
     "postcss-loader": "^3.0.0",
